@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    overflow-x: hidden;
+}
+
+.cart {
+    /*margin-top: 20px;*/
+}
+
+.cartP1 {
+    width: 500px;
+    height: 430px;
+    border-radius: 8px;
+    border: 10px transparent;
+}
+
+.Pdesp1 {
+    margin-top: 20px;
+}
+
+.Pdesp2 {
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 991px) {
+    .Pdesp2 {
+        margin-left: 2px;
+    }
+}
